@@ -198,6 +198,9 @@
   <channel id="ESPNDeportes.us">
     <display-name>ESPN Deportes</display-name>
   </channel>
+  <channel id="CanalI.ve">
+    <display-name>Canal I</display-name>
+  </channel>
   <programme start="20260825090000 +0000" stop="20260825130000 +0000" channel="A24.ar">
     <desc lang="es">Noticiero
 Un espacio que ofrece al público todos los detalles y noticias exclusivas sobre la realidad social y política argentina. A través de los informes y las entrevistas, el público podrá formar su opinión sobre los acontecimientos de relevancia.</desc>

@@ -1,5 +1,5 @@
 {
-  "channels_total": 66,
+  "channels_total": 67,
   "channels_with_programmes": 53,
   "programmes_total": 9737,
   "channels": {
@@ -398,6 +398,12 @@
       "source": "iptv-epg-us",
       "programmes": 144,
       "status": "ok"
+    },
+    "CanalI.ve": {
+      "name": "Canal I",
+      "source": null,
+      "programmes": 0,
+      "status": "missing"
     }
   },
   "source_errors": {}
