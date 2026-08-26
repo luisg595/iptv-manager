@@ -1,0 +1,38 @@
+{
+  "A24.ar": {
+    "slug": "a24",
+    "url": "https://www.youtube.com/watch?v=ArKbAx1K-2U"
+  },
+  "Argentina12.ar": {
+    "slug": "argentina12",
+    "url": "https://www.youtube.com/watch?v=21UP3XoRIBU"
+  },
+  "C5N.ar": {
+    "slug": "c5n",
+    "url": "https://www.youtube.com/watch?v=KRezJC7_9Uw"
+  },
+  "CronicaTV.ar": {
+    "slug": "cronica",
+    "url": "https://www.youtube.com/watch?v=hw4uHyct4vg"
+  },
+  "LaNacionPlus.ar": {
+    "slug": "lanacion",
+    "url": "https://www.youtube.com/watch?v=FEWZjXJ7M0c"
+  },
+  "TelevisionPublica.ar": {
+    "slug": "tvpublica",
+    "url": "https://www.youtube.com/watch?v=zOCZ8Bj5nJ4"
+  },
+  "TN.ar": {
+    "slug": "tn",
+    "url": "https://www.youtube.com/todonoticias/live"
+  },
+  "TodoNoticias.ar": {
+    "slug": "tn",
+    "url": "https://www.youtube.com/watch?v=cb12KmMMDJA"
+  },
+  "ElNueve.ar": {
+    "slug": "elnueve",
+    "url": "https://www.youtube.com/watch?v=e4VpCP8KWLY"
+  }
+}

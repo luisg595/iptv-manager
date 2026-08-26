@@ -1,0 +1,34 @@
+services:
+  iptv-manager:
+    build: .
+    container_name: iptv-manager
+    restart: unless-stopped
+    ports:
+      - "8090:8090"
+    dns:
+      - 1.1.1.1
+      - 8.8.8.8
+    mem_limit: 5g
+    memswap_limit: 6g
+    cpus: 1.0
+    environment:
+      TZ: America/Argentina/Buenos_Aires
+      PUBLIC_BASE_URL: http://192.168.1.2:8090
+      IDLE_TIMEOUT: "180"
+      STARTUP_TIMEOUT: "60"
+      IPTV_UPDATE_HOURS: "6"
+      EPG_UPDATE_HOURS: "12"
+      EPG_MIN_PROGRAMMES: "10"
+      # Opcional: URLs XMLTV/XMLTV.GZ separadas por coma. Vacío usa las fuentes regionales incluidas.
+      EPG_SOURCES: ""
+      UPDATE_YTDLP_ON_START: "true"
+      UPDATE_YTDLP_ON_FAILURE: "true"
+      # Opcional. Completar para refrescar Jellyfin automáticamente:
+      JELLYFIN_URL: ""
+      JELLYFIN_API_KEY: ""
+    volumes:
+      - ./channels.json:/config/channels.json:ro
+      - ./dgo.template.m3u:/config/dgo.template.m3u:ro
+      - ./epg_aliases.json:/config/epg_aliases.json:ro
+      - ./generated:/generated
+      - ./data:/data
