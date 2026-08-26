@@ -9,7 +9,7 @@
   },
   "C5N.ar": {
     "slug": "c5n",
-    "url": "https://www.youtube.com/watch?v=KRezJC7_9Uw"
+    "url": "https://www.youtube.com/watch?v=j6oh4Kqz3UM"
   },
   "CronicaTV.ar": {
     "slug": "cronica",
@@ -25,14 +25,22 @@
   },
   "TN.ar": {
     "slug": "tn",
-    "url": "https://www.youtube.com/todonoticias/live"
-  },
-  "TodoNoticias.ar": {
-    "slug": "tn",
     "url": "https://www.youtube.com/watch?v=cb12KmMMDJA"
   },
   "ElNueve.ar": {
     "slug": "elnueve",
     "url": "https://www.youtube.com/watch?v=e4VpCP8KWLY"
+  },
+  "CNNenEspanol.us": {
+    "slug": "cnnenespanol",
+    "url": "https://www.youtube.com/watch?v=Qr61waJ6AZg"
+  },
+  "UrbanaPlay1043.ar": {
+    "slug": "urbanaplay",
+    "url": "https://www.youtube.com/watch?v=PbUSUcrw7BQ"
+  },
+  "PlimPlim.ar": {
+    "slug": "plimplim",
+    "url": "https://www.youtube.com/watch?v=iA-G81-JXYI"
   }
 }

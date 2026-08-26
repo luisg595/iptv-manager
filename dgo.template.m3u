@@ -7,13 +7,13 @@ http://138.121.15.230:9002/A&E/index.m3u8
 http://45.162.193.35/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/LnXQkIU.png" tvg-chno="719" group-title="IPTV"
-https://www.youtube.com/watch?v=ArKbAx1K-2U
+http://192.168.1.2:8090/youtube/a24/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" tvg-chno="762" group-title="IPTV"
 http://177.10.184.193:8000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-id="Argentina12.ar" tvg-name="Argentina/12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/330px-Argentina12_2025.svg.png" tvg-chno="721" group-title="IPTV"
-https://www.youtube.com/watch?v=21UP3XoRIBU
+http://192.168.1.2:8090/youtube/argentina12/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-chno="209" group-title="IPTV"
 http://45.228.235.116:8000/play/a0iy/index.m3u8
@@ -22,28 +22,31 @@ http://45.228.235.116:8000/play/a0iy/index.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="https://i.imgur.com/4BDJ5FT.png" tvg-chno="317" group-title="IPTV"
-https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8
+http://138.121.15.230:9002/BABY-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-chno="710" group-title="IPTV"
-http://206.212.244.63/22/index.m3u8
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/5ZNZYjO.png" tvg-chno="717" group-title="IPTV"
-https://www.youtube.com/watch?v=KRezJC7_9Uw
+http://192.168.1.2:8090/youtube/c5n/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-chno="720" group-title="IPTV"
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-chno="790" group-title="IPTV"
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" tvg-chno="507" group-title="IPTV"
 http://45.162.193.35/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" tvg-chno="704" group-title="IPTV"
+http://192.168.1.2:8090/youtube/cnnenespanol/index.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-chno="215" group-title="IPTV"
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" tvg-chno="718" group-title="IPTV"
-https://www.youtube.com/watch?v=hw4uHyct4vg
+http://192.168.1.2:8090/youtube/cronica/index.m3u8
 
 #EXTINF:-1 tvg-id="DaystarTVEspanol.us" tvg-name="Daystar TV Espanol" tvg-logo="https://i.imgur.com/4nP7j4M.png" tvg-chno="358" group-title="IPTV"
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
@@ -52,7 +55,7 @@ https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-chno="312" group-title="IPTV"
-https://streamer.metronethn.com/DisneyChannel/index.m3u8
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-chno="315" group-title="IPTV"
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
@@ -66,17 +69,14 @@ http://192.168.1.2:8090/youtube/elnueve/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us" tvg-name="Pluto TV El Reino Infantil" tvg-logo="https://i.imgur.com/u7DOoBK.png" tvg-chno="310" group-title="IPTV"
 https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-chno="124" group-title="IPTV"
-http://15.204.246.24:8080/eltreceHD/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsInternational.us" tvg-name="Fox News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" tvg-chno="708" group-title="IPTV"
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" tvg-chno="708" group-title="IPTV"
+http://45.190.28.50/FOX_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" tvg-chno="984" group-title="IPTV"
-https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-chno="217" group-title="IPTV"
-https://streamer.metronethn.com/FX/index.m3u8
+http://72.1.184.5:8089/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" tvg-chno="628" group-title="IPTV"
 http://72.1.184.5:8089/play/a0cw/index.m3u8
@@ -88,34 +88,40 @@ http://177.234.249.178:8888/HISTORY2/index.m3u8
 http://177.234.249.178:8888/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-name="Hola! TV Latin America" tvg-logo="https://i.imgur.com/i0Qexxd.png" tvg-chno="221" group-title="IPTV"
-http://15.204.246.24:8080/HOLATVHD/index.m3u8
+http://177.234.249.178:8888/HOLA-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="UrbanaPlay1043.ar" tvg-name="Urbana Play 104.3" tvg-logo="https://radiotv.ar/wp-content/uploads/2025/01/urbana_play.jpg" tvg-chno="199" group-title="IPTV"
+http://192.168.1.2:8090/youtube/urbanaplay/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="La Nacion +" tvg-logo="https://i.imgur.com/Gj1kqH5.png" tvg-chno="715" group-title="IPTV"
-https://www.youtube.com/watch?v=FEWZjXJ7M0c
+http://192.168.1.2:8090/youtube/lanacion/index.m3u8
 
 #EXTINF:-1 tvg-id="TelevisionPublica.ar" tvg-name="Television Publica" tvg-logo="https://i.imgur.com/XGrkzN3.png" tvg-chno="121" group-title="IPTV"
 http://192.168.1.2:8090/youtube/tvpublica/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-chno="228" group-title="IPTV"
-http://181.119.66.28:8081/Lifetime-HD/index.m3u8
+http://138.121.15.230:9002/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="264" group-title="IPTV"
 https://streamer.metronethn.com/MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-chno="730" group-title="IPTV"
-http://15.204.246.24:8080/NatGeoHD/index.m3u8
+http://190.93.224.42/NAT-GEO/index.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-chno="125" group-title="IPTV"
-http://190.7.19.197:232/play/a095/index.m3u8
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxSpanish.us" tvg-name="Newsmax Spanish" tvg-logo="https://i.imgur.com/mrXMW7H.png" tvg-chno="705" group-title="IPTV"
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-chno="309" group-title="IPTV"
-https://streamer.metronethn.com/NickJr/index.m3u8
+http://177.234.249.178:8888/NICK-JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-chno="308" group-title="IPTV"
-https://streamer.metronethn.com/Nickelodeon/index.m3u8
+http://190.93.224.42/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" tvg-logo="https://i.imgur.com/MYc8srh.png" tvg-chno="318" group-title="IPTV"
+http://192.168.1.2:8090/youtube/plimplim/index.m3u8
 
 #EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-name="Quiero Musica en mi Idioma" tvg-logo="https://i.imgur.com/RO9Dz3X.png" tvg-chno="269" group-title="IPTV"
 http://177.234.249.178:8888/MTV/index.m3u8
@@ -130,28 +136,28 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 http://138.121.15.230:9002/SONY/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-chno="204" group-title="IPTV"
-http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-chno="508" group-title="IPTV"
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
 
-#EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-chno="124" group-title="IPTV"
+#EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-chno="123" group-title="IPTV"
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-chno="231" group-title="IPTV"
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-chno="716" group-title="IPTV"
 http://192.168.1.2:8090/youtube/tn/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-chno="216" group-title="IPTV"
-http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-chno="629" group-title="IPTV"
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us" tvg-name="Universal TV Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" tvg-chno="218" group-title="IPTV"
-http://15.204.246.24:8080/UniversalHD/index.m3u8
+http://181.119.66.28:8081/Universal-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-name="USA Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-chno="219" group-title="IPTV"
 http://177.234.249.178:8888/SYFY/index.m3u8
@@ -184,10 +190,7 @@ http://45.170.130.224:8000/play/a04i/index.m3u8
 http://45.170.130.224:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png" tvg-chno="1009" group-title="IPTV"
-http://138.186.23.7:8082/TELEVEN/index.m3u8
-
-#EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen" tvg-logo="https://i.imgur.com/vEMnZF4.png" tvg-chno="1010" group-title="IPTV"
-https://no.gendigi.net/origin-proxy/chunklist.m3u8
+http://181.78.8.199:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" tvg-chno="1011" group-title="IPTV"
 https://streamer.metronethn.com/Telemundo/index.m3u8
