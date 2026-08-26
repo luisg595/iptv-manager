@@ -141,7 +141,7 @@ http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-chno="508" group-title="IPTV"
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
 
-#EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-chno="123" group-title="IPTV"
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-chno="123" group-title="IPTV"
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-chno="231" group-title="IPTV"
@@ -197,3 +197,6 @@ http://168.228.44.241:9997/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" tvg-chno="1012" group-title="IPTV"
 http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal I" tvg-logo="https://i.imgur.com/vKfOavW.png" tvg-chno="1013" group-title="IPTV"
+https://streaming.canal-i.com/canal-i/live/master.m3u8
