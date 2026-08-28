@@ -1,24 +1,24 @@
 {
   "channels_total": 67,
-  "channels_with_programmes": 53,
-  "programmes_total": 8661,
+  "channels_with_programmes": 49,
+  "programmes_total": 7610,
   "channels": {
     "AELatinAmerica.us": {
       "name": "A&E Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 72,
+      "source": "iptv-epg-mx",
+      "programmes": 193,
       "status": "ok"
     },
     "AMCLatinAmerica.us": {
       "name": "AMC Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 105,
+      "source": "iptv-epg-us",
+      "programmes": 109,
       "status": "ok"
     },
     "A24.ar": {
       "name": "A24",
-      "source": "iptv-epg-ar",
-      "programmes": 84,
+      "source": "epgshare-uy",
+      "programmes": 57,
       "status": "ok"
     },
     "Antena3Internacional.es": {
@@ -35,8 +35,8 @@
     },
     "AXNLatinAmerica.us": {
       "name": "AXN Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 132,
+      "source": "iptv-epg-mx",
+      "programmes": 150,
       "status": "ok"
     },
     "AztecaInternacional.mx": {
@@ -47,26 +47,26 @@
     },
     "BabyTV.uk": {
       "name": "BabyTV",
-      "source": "iptv-epg-ar",
-      "programmes": 1687,
+      "source": "iptv-epg-us",
+      "programmes": 324,
       "status": "ok"
     },
     "BloombergTV.us": {
       "name": "Bloomberg TV",
-      "source": "iptv-epg-ar",
-      "programmes": 105,
+      "source": "iptv-epg-us",
+      "programmes": 184,
       "status": "ok"
     },
     "C5N.ar": {
       "name": "C5N",
-      "source": "iptv-epg-ar",
-      "programmes": 74,
+      "source": "iptv-epg-uy",
+      "programmes": 65,
       "status": "ok"
     },
     "Canal26.ar": {
       "name": "Canal 26",
-      "source": "iptv-epg-ar",
-      "programmes": 79,
+      "source": "iptv-epg-uy",
+      "programmes": 77,
       "status": "ok"
     },
     "CGTNSpanish.cn": {
@@ -77,26 +77,26 @@
     },
     "Cinecanal.us": {
       "name": "Cinecanal",
-      "source": "iptv-epg-ar",
-      "programmes": 61,
+      "source": "iptv-epg-mx",
+      "programmes": 56,
       "status": "ok"
     },
     "CNNenEspanol.us": {
       "name": "CNN en Espanol",
-      "source": "iptv-epg-ar",
-      "programmes": 153,
+      "source": "iptv-epg-mx",
+      "programmes": 150,
       "status": "ok"
     },
     "ComedyCentralLatinAmerica.us": {
       "name": "Comedy Central Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 343,
+      "source": "iptv-epg-us",
+      "programmes": 311,
       "status": "ok"
     },
     "CronicaTV.ar": {
       "name": "Cronica TV",
-      "source": "iptv-epg-ar",
-      "programmes": 89,
+      "source": "iptv-epg-uy",
+      "programmes": 87,
       "status": "ok"
     },
     "DaystarTVEspanol.us": {
@@ -113,8 +113,8 @@
     },
     "DisneyChannelLatinAmerica.ar": {
       "name": "Disney Channel Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 251,
+      "source": "iptv-epg-us",
+      "programmes": 314,
       "status": "ok"
     },
     "DisneyJrLatinAmerica.ar": {
@@ -125,15 +125,15 @@
     },
     "ELatinAmerica.us": {
       "name": "E! Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 72,
+      "source": "iptv-epg-mx",
+      "programmes": 145,
       "status": "ok"
     },
     "ElNueve.ar": {
       "name": "El Nueve",
-      "source": "iptv-epg-ar",
-      "programmes": 103,
-      "status": "ok"
+      "source": null,
+      "programmes": 0,
+      "status": "missing"
     },
     "PlutoTVElReinoInfantil.us": {
       "name": "Pluto TV El Reino Infantil",
@@ -155,26 +155,26 @@
     },
     "FXLatinAmerica.us": {
       "name": "FX Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 70,
+      "source": "iptv-epg-us",
+      "programmes": 111,
       "status": "ok"
     },
     "GolfChannelLatinAmerica.us": {
       "name": "Golf Channel Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 59,
+      "source": "iptv-epg-us",
+      "programmes": 88,
       "status": "ok"
     },
     "History2LatinAmerica.us": {
       "name": "History 2 Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 161,
+      "source": "iptv-epg-mx",
+      "programmes": 125,
       "status": "ok"
     },
     "HistoryLatinAmerica.us": {
       "name": "History Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 154,
+      "source": "iptv-epg-us",
+      "programmes": 178,
       "status": "ok"
     },
     "HolaTVLatinAmerica.us": {
@@ -191,39 +191,39 @@
     },
     "LaNacionPlus.ar": {
       "name": "La Nacion +",
-      "source": "iptv-epg-ar",
-      "programmes": 64,
-      "status": "ok"
+      "source": null,
+      "programmes": 0,
+      "status": "missing"
     },
     "TelevisionPublica.ar": {
       "name": "Television Publica",
-      "source": "iptv-epg-ar",
-      "programmes": 94,
+      "source": "epgshare-uy",
+      "programmes": 68,
       "status": "ok"
     },
     "LifetimeLatinAmerica.us": {
       "name": "Lifetime Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 72,
+      "source": "iptv-epg-us",
+      "programmes": 181,
       "status": "ok"
     },
     "MTVLatinAmerica.us": {
       "name": "MTV Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 231,
+      "source": "iptv-epg-us",
+      "programmes": 258,
       "status": "ok"
     },
     "NationalGeographicLatinAmerica.us": {
       "name": "National Geographic Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 136,
+      "source": "iptv-epg-us",
+      "programmes": 211,
       "status": "ok"
     },
     "NETTV.ar": {
       "name": "NET TV",
-      "source": "iptv-epg-ar",
-      "programmes": 99,
-      "status": "ok"
+      "source": null,
+      "programmes": 0,
+      "status": "missing"
     },
     "NewsmaxSpanish.us": {
       "name": "Newsmax Spanish",
@@ -233,8 +233,8 @@
     },
     "NickJrLatinAmerica.us": {
       "name": "Nick Jr. Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 366,
+      "source": "iptv-epg-us",
+      "programmes": 332,
       "status": "ok"
     },
     "NickelodeonLatinAmerica.us": {
@@ -257,8 +257,8 @@
     },
     "RaiItalia.it": {
       "name": "Rai Italia",
-      "source": "iptv-epg-ar",
-      "programmes": 137,
+      "source": "iptv-epg-us",
+      "programmes": 182,
       "status": "ok"
     },
     "RCNMas.co": {
@@ -275,44 +275,44 @@
     },
     "StarChannelLatinAmerica.us": {
       "name": "Star Channel Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 79,
+      "source": "iptv-epg-mx",
+      "programmes": 78,
       "status": "ok"
     },
     "StudioUniversalLatinAmerica.us": {
       "name": "Studio Universal Latin America",
-      "source": "iptv-epg-ar",
-      "programmes": 71,
+      "source": "iptv-epg-mx",
+      "programmes": 73,
       "status": "ok"
     },
     "Telefe.ar": {
       "name": "Telefe",
-      "source": "iptv-epg-ar",
-      "programmes": 97,
+      "source": "iptv-epg-us",
+      "programmes": 159,
       "status": "ok"
     },
     "TelemundoInternacional.us": {
       "name": "Telemundo Internacional",
-      "source": "iptv-epg-ar",
-      "programmes": 72,
-      "status": "ok"
+      "source": null,
+      "programmes": 0,
+      "status": "missing"
     },
     "TN.ar": {
       "name": "TN",
-      "source": "iptv-epg-ar",
-      "programmes": 76,
+      "source": "iptv-epg-us",
+      "programmes": 84,
       "status": "ok"
     },
     "TNTNovelas.us": {
       "name": "TNT Novelas",
-      "source": "epgshare-ar",
-      "programmes": 110,
+      "source": "iptv-epg-mx",
+      "programmes": 72,
       "status": "ok"
     },
     "TyCSports.ar": {
       "name": "TyC Sports",
-      "source": "iptv-epg-ar",
-      "programmes": 82,
+      "source": "iptv-epg-us",
+      "programmes": 118,
       "status": "ok"
     },
     "UniversalTVLatinAmerica.us": {
@@ -323,8 +323,8 @@
     },
     "USANetworkLatinAmerica.us": {
       "name": "USA Network Latin America",
-      "source": "epgshare-ar",
-      "programmes": 113,
+      "source": "iptv-epg-us",
+      "programmes": 162,
       "status": "ok"
     },
     "TVGloboSaoPaulo.br": {
@@ -406,5 +406,8 @@
       "status": "missing"
     }
   },
-  "source_errors": {}
+  "source_errors": {
+    "iptv-epg-ar": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "epgshare-ar": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  }
 }
