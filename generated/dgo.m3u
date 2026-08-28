@@ -103,7 +103,7 @@ http://192.168.1.2:8090/youtube/tvpublica/index.m3u8
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-chno="264" group-title="IPTV"
-https://streamer.metronethn.com/MTV/index.m3u8
+http://15.204.246.24:8080/MTVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-chno="730" group-title="IPTV"
 http://190.93.224.42/NAT-GEO/index.m3u8
@@ -163,7 +163,7 @@ http://181.119.66.28:8081/Universal-HD/index.m3u8
 http://177.234.249.178:8888/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TV Globo Sao Paulo" tvg-logo="https://i.imgur.com/OoSUg78.png" tvg-chno="776" group-title="IPTV"
-http://170.84.165.204:80/Globo_HD/index.m3u8
+http://170.84.165.204/Globo_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-chno="1001" group-title="IPTV"
 http://187.102.210.46/AMERICA/index.m3u8
