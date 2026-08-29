@@ -162,14 +162,11 @@ http://181.119.66.28:8081/Universal-HD/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-name="USA Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-chno="219" group-title="IPTV"
 http://177.234.249.178:8888/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="TV Globo Sao Paulo" tvg-logo="https://i.imgur.com/OoSUg78.png" tvg-chno="776" group-title="IPTV"
-http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="TV Globo Rio de Janeiro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rede_Globo_logo.svg" tvg-chno="776" group-title="IPTV"
+http://45.190.28.50/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-chno="1001" group-title="IPTV"
 http://187.102.210.46/AMERICA/index.m3u8
-
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-chno="1002" group-title="IPTV"
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-chno="1003" group-title="IPTV"
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
