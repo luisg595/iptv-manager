@@ -183,8 +183,11 @@ http://181.78.8.199:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-name="Azteca Deportes Network" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" tvg-chno="1006" group-title="IPTV"
 http://209.14.115.253:8081/azteca-deportes/index.m3u8
 
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-chno="634" group-title="IPTV"
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-name="Tigo Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-chno="1007" group-title="IPTV"
-http://45.170.130.224:8000/play/a04i/index.m3u8
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-name="TyC Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-chno="1008" group-title="IPTV"
 http://45.170.130.224:8000/play/a020/index.m3u8
