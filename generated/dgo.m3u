@@ -4,7 +4,7 @@
 http://138.121.15.230:9002/A&E/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-chno="210" group-title="IPTV"
-http://45.162.193.35/AMC/index.m3u8
+http://177.234.249.178:8888/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/LnXQkIU.png" tvg-chno="719" group-title="IPTV"
 http://192.168.1.2:8090/youtube/a24/index.m3u8
@@ -184,7 +184,7 @@ http://209.14.115.253:8081/azteca-deportes/index.m3u8
 http://45.170.130.224:8000/play/a04k/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-name="Tigo Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-chno="1007" group-title="IPTV"
-https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-name="TyC Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-chno="1008" group-title="IPTV"
 http://45.170.130.224:8000/play/a020/index.m3u8
@@ -193,7 +193,7 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 http://181.78.8.199:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" tvg-chno="1011" group-title="IPTV"
-http://181.119.108.43:9001/play/a044/index.m3u8
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" tvg-chno="1012" group-title="IPTV"
 http://168.228.44.241:9998/play/a0dz/index.m3u8
