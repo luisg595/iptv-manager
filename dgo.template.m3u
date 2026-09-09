@@ -142,7 +142,7 @@ http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-chno="123" group-title="IPTV"
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-chno="231" group-title="IPTV"
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
