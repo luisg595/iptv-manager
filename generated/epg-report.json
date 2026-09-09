@@ -1,12 +1,12 @@
 {
   "channels_total": 67,
   "channels_with_programmes": 50,
-  "programmes_total": 7359,
+  "programmes_total": 7393,
   "channels": {
     "AELatinAmerica.us": {
       "name": "A&E Latin America",
-      "source": "iptv-epg-mx",
-      "programmes": 28,
+      "source": "iptv-epg-cl",
+      "programmes": 35,
       "status": "ok"
     },
     "AMCLatinAmerica.us": {
@@ -35,8 +35,8 @@
     },
     "AXNLatinAmerica.us": {
       "name": "AXN Latin America",
-      "source": "iptv-epg-mx",
-      "programmes": 53,
+      "source": "iptv-epg-cl",
+      "programmes": 72,
       "status": "ok"
     },
     "AztecaInternacional.mx": {
@@ -77,14 +77,14 @@
     },
     "Cinecanal.us": {
       "name": "Cinecanal",
-      "source": "iptv-epg-mx",
-      "programmes": 21,
+      "source": "iptv-epg-cl",
+      "programmes": 9,
       "status": "ok"
     },
     "CNNenEspanol.us": {
       "name": "CNN en Espanol",
-      "source": "iptv-epg-mx",
-      "programmes": 45,
+      "source": "iptv-epg-cl",
+      "programmes": 18,
       "status": "ok"
     },
     "ComedyCentralLatinAmerica.us": {
@@ -125,8 +125,8 @@
     },
     "ELatinAmerica.us": {
       "name": "E! Latin America",
-      "source": "iptv-epg-mx",
-      "programmes": 49,
+      "source": "iptv-epg-cl",
+      "programmes": 72,
       "status": "ok"
     },
     "ElNueve.ar": {
@@ -167,8 +167,8 @@
     },
     "History2LatinAmerica.us": {
       "name": "History 2 Latin America",
-      "source": "iptv-epg-mx",
-      "programmes": 150,
+      "source": "iptv-epg-co",
+      "programmes": 55,
       "status": "ok"
     },
     "HistoryLatinAmerica.us": {
@@ -275,14 +275,14 @@
     },
     "StarChannelLatinAmerica.us": {
       "name": "Star Channel Latin America",
-      "source": "iptv-epg-mx",
-      "programmes": 29,
+      "source": "iptv-epg-cl",
+      "programmes": 11,
       "status": "ok"
     },
     "StudioUniversalLatinAmerica.us": {
       "name": "Studio Universal Latin America",
-      "source": "iptv-epg-mx",
-      "programmes": 25,
+      "source": "iptv-epg-cl",
+      "programmes": 72,
       "status": "ok"
     },
     "Telefe.ar": {
@@ -305,8 +305,8 @@
     },
     "TNTNovelas.us": {
       "name": "TNT Novelas",
-      "source": "iptv-epg-mx",
-      "programmes": 72,
+      "source": "iptv-epg-uy",
+      "programmes": 162,
       "status": "ok"
     },
     "TyCSports.ar": {
@@ -408,6 +408,7 @@
   },
   "source_errors": {
     "iptv-epg-ar": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "epgshare-ar": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    "epgshare-ar": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "iptv-epg-mx": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   }
 }
