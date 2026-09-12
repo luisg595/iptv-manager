@@ -185,3 +185,6 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal I" tvg-logo="https://i.imgur.com/vKfOavW.png" tvg-chno="1013" group-title="IPTV"
 https://streaming.canal-i.com/canal-i/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/TDP_2026.svg" tvg-chno="1014" group-title="IPTV"
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
